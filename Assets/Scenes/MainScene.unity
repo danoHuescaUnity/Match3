@@ -557,7 +557,8 @@ MonoBehaviour:
   movesText: {fileID: 1203896182}
   scoreText: {fileID: 882119495}
   gameOverPanel: {fileID: 849502208}
-  initialMoves: 500
+  noMoreMatchsPanel: {fileID: 0}
+  initialMoves: 5
   scorePerMove: 10
 --- !u!4 &518795237
 Transform:
